@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is R.Ben
 #### IT Security Analyst and Practitioner
-![IT Security Analyst and Practitioner](https://freeimage.host/i/Jj2AwT7)
+![IT Security Analyst and Practitioner](https://imgur.com/xf2TmgV)
 
 I've embarked on a cybersecurity realm and let me tell you, it's been a wild ride. You might roll your eyes and think, "Ah, another tech enthusiast," but hear me out. The way we safeguard our digital lives is changing faster than my socks, and I'm all here for it. Diving into puzzles and chasing down virtual villains in capture-the-flag or threat-hunting games is my kind of party. Constant learning? It's my jam in this never-still world of cybersecurity. Think of me as a mini detective of the internet, just with more caffeine and fewer tweed jackets.
 
