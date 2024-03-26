@@ -11,10 +11,10 @@ It's been a wild ride. You might roll your eyes and think, "Ah, another tech ent
 
 #
   
-- 🔭 Current Project:    Hackthebox - Defensive Security Analyst (CDSA) path 
+- 📦 Current Project:    Hackthebox - Defensive Security Analyst (CDSA) path 
 - 🌱 Ongoing learning habits:     French/Endpoint Forensics/Splunk/Programming/Scripting
-- 👯 Hope to provide:    Cyber Threat Intelligence  
-- 🤔 Actively looking for:    Professional Mentorship   
+- 🚩 Hope to provide:    Cyber Threat Intelligence  
+- 🔍 Actively looking for:    Professional Mentorship   
 - ⚡ Fun fact:    NBA, Martial Arts and Anime fan 
 - 📫 How to reach me:   Inbox me
 
