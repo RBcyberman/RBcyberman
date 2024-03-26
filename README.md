@@ -2,7 +2,7 @@
 
 **`Aspiring cybersecurity analyst and practitioner`**
 
-It's been a wild ride. You might roll your eyes and think, "Ah, another tech enthusiast," but hear me out. The way to safeguard our digital lives is changing faster than my socks, and I'm all here for it. Diving into puzzles and chasing down virtual villains in capture-the-flag or threat-hunting games is my kind of party. Constant learning is also my jam in this never-ending realm of cybersecurity. Think of me as a mini Geronimo Stilton of the internet, just with more caffeine and fewer tweed jackets.
+Learning cybersecurity has been a wild ride. You might roll your eyes and think, "Ah, another tech enthusiast," but hear me out. The way to safeguard our digital lives is changing faster than my socks, and I'm all here for it. Diving into puzzles and chasing down virtual villains in capture-the-flag or threat-hunting games is my kind of party. Think of me as a mini blue team Megaman of the internet, only with more caffeine and fewer attack fuels.
 
 # 💻 Tech Stack:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![SUMOLOGIC](https://img.shields.io/badge/sumologic-000099.svg?style=for-the-badge&logo=sumologic&logoColor=white&color=%23000099) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -18,12 +18,21 @@ It's been a wild ride. You might roll your eyes and think, "Ah, another tech ent
 - ⚡ Fun fact:    NBA, Martial Arts and Anime fan 
 - 📫 How to reach me:   Inbox me
 
-<h2>👨‍💻 Blue Projects:</h2>
+<h2>🪬 Blue Projects:</h2>
 
 - <b>Suricata Detection Lab Practice (Suricata)</b>
   - [Practising custom rules detection in Kali](https://github.com/RuralBen/SuricataLab)
 - <b>PowerShell</b>
 
+<h2>☣️ Red Projects:</h2>
+
+- <b>Nmap Lab Practice (Suricata)</b>
+
+
+<h2>🎓 Online Training:</h2>
+
+
+<h2>📚 Other Study Resources:</h2>
 
   
 <h2> 🤳 Connect with me:</h2>
