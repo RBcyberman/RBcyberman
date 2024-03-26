@@ -1,4 +1,4 @@
-# Attention! You are onboarding R.L's cyber cruise 🤖🖥️🚀👨‍🚀 
+# Attention! You are onboarding R.B's cyber cruise 🤖🖥️🚀👨‍🚀 
 
 **`Aspiring cybersecurity analyst and practitioner`**
 
@@ -7,7 +7,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 # 💻 Tech Stack:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![SUMOLOGIC](https://img.shields.io/badge/sumologic-000099.svg?style=for-the-badge&logo=sumologic&logoColor=white&color=%23000099) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-![IT Security Analyst and Practitioner](https://imgur.com/eZQ8NKP.jpeg)
+![IT Security Analyst and Practitioner](https://imgur.com/n2vuqQl.jpeg)
 
 #
   
