@@ -56,7 +56,8 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 <h2>🎓 Online Training:</h2>
 
-#
+- <b>Threat-Hunting Online Workshop with Cyborg Security</b>
+  - [Practising KQL query and refining hunting skills in Elastic Kibana](https://github.com/RuralBen/Onlinetraining)
 
 <h2>📚 Other Study Resources:</h2>
 
