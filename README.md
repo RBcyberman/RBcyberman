@@ -51,7 +51,8 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 <h2>☣️ Red Projects:</h2>
 
-- <b>Nessus and Reconnaiance Lab</b>
+- <b>Vulnerability Scanning Lab with Nessus</b>
+  - [Basic setup and usage against Metasploit VM machine for initial understanding](https://github.com/RuralBen/Nessus)
 - <b>Caldera detection simulation Lab</b>
 
 <h2>🎓 Online Training:</h2>
@@ -75,7 +76,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 <h2>📚 Other Study Resources:</h2>
 
 - [Security Blue Team](https://www.securityblue.team/)
-- [TryHackMe](https://tryhackme.com/)
+- [CyberDefender](https://cyberdefenders.org/)
 - [LetsDefend](https://app.letsdefend.io/) 
 - [KC7 Cybersecurity game](https://kc7cyber.com/modules)
 - [LOLBAS Project](https://lolbas-project.github.io/)
