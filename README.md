@@ -96,7 +96,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 <p align="left">
 <a href="https://twitter.com/ruralbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruralbin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/analystruben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="analystruben" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucmxs6xbugcas7l7kbauivbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmxs6xbugcas7l7kbauivbg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMXs6XBuGcas7L7KbaUIvBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmxs6xbugcas7l7kbauivbg" height="30" width="40" /></a>
 </p>
 
 
