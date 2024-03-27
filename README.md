@@ -58,10 +58,30 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 - <b>Threat-Hunting Online Workshop with Cyborg Security</b>
   - [Practising KQL query and refining hunting skills in Elastic Kibana](https://github.com/RuralBen/Onlinetraining)
+ 
+<h2>🔍📂 OSINT Tools:</h2>
+
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+- [AlienVault](https://otx.alienvault.com/)
+- [Shodan](https://www.shodan.io/)
+- [MITRE ATTACK](https://d3fend.mitre.org/)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 <h2>📚 Other Study Resources:</h2>
 
+- [Security Blue Team](https://www.securityblue.team/)
+- [TryHackMe](https://tryhackme.com/)
+- [LetsDefend](https://app.letsdefend.io/) 
+- [KC7 Cybersecurity game](https://kc7cyber.com/modules)
+- [LOLBAS Project](https://lolbas-project.github.io/)
+
 #
+<h2>📻📶 Stay tuned with the latest cyber news and hot topics:</h2>
+
+- [Hackernoon](https://hackernoon.com/)
+- [DFIR & DIVA](https://dfirdiva.com/)
+- [Darknet Diary Podcast](https://darknetdiaries.com/) 
+- [Cybersecurity Today | Podcast on Spotify](https://open.spotify.com/show/2YiPcnkJLIcxtQ04nCfaSu)
 
 
 <h2> 🤳 Connect with me:</h2>
