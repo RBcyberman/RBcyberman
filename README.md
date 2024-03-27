@@ -20,14 +20,15 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 <h2>🪬 Blue Projects:</h2>
 
-- <b>Suricata Detection Lab Practice (Suricata)</b>
+- <b>IPS/IDS Detection Lab with Suricata</b>
   - [Practising custom rules detection in Kali](https://github.com/RuralBen/SuricataLab)
-- <b>PowerShell</b>
+- <b>DFIR Lab with Multiple Tools</b>
+  - [Documenting the DFIR process exercise with tools](https://github.com/RuralBen/DFIRLab)
 
 <h2>☣️ Red Projects:</h2>
 
-- <b>Nmap Lab Practice (Suricata)</b>
-
+- <b>Nessus and Reconnaiance Lab</b>
+- <b>Caldera detection simulation Lab</b>
 
 <h2>🎓 Online Training:</h2>
 
@@ -43,5 +44,5 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 <details> 
   <summary><h3>👨‍💻 R.L's Cyber Journey</h3></summary>
-   Confession time: I spent four years wrangling IT/AV/Security systems for clients – think spreadsheets and troubleshooting galore. Don't get me wrong, it was engaging, but the world of cybersecurity always held a magnetic pull. So, I took a deep dive with a post-graduate degree in cybersecurity. It was a year of intense learning – firewalls became fortresses, encryption a secret language, and vulnerability assessments my detective work. Certifications like Security+, CCNA, and Microsoft creds were my badges of honour, but the real reward is the constant learning curve. Now, I'm on a mission to become a cybersecurity Swiss Army Knife – cloud security, network defences, you name it! Every new concept feels like unlocking another level in this digital adventure. Fresh out of school, I wouldn't call myself a cybersecurity guru (yet!), but I'm a fast learner with a thirst for knowledge and a genuine passion for safeguarding the digital landscape.  I'm eager to contribute my growing skillset to a team and learn from the best.  Let's join forces and be the ultimate defence against those lurking digital nasties!
+   Confession time: I spent four years wrangling IT/AV/Security systems and solutions for clients – think spreadsheets and troubleshooting galore. Don't get me wrong, it was engaging, but the world of cybersecurity always held a magnetic pull. So, I took a deep dive with a post-graduate degree in cybersecurity. It was a year of intense learning – firewalls became fortresses, encryption a secret language, and vulnerability assessments my detective work. Certifications and creds were my badges of honour, but the real reward is the constant learning curve. Now, I'm on a mission to become a cybersecurity Swiss Army Knife – cloud security, network defences, whatever is ahead! Every new concept feels like unlocking another level in this digital adventure. Fresh out of school, I wouldn't call myself a cybersecurity guru (yet!), but I'm a fast learner with a thirst for knowledge and a genuine passion for safeguarding the digital landscape.  
 
