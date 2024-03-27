@@ -58,7 +58,12 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 - <b>Threat-Hunting Online Workshop with Cyborg Security</b>
   - [Practising KQL query and refining hunting skills in Elastic Kibana](https://github.com/RuralBen/Onlinetraining)
- 
+
+<h2>🥼 Hands-on Network Skills Exercise:</h2>
+
+- <b>Network Packet Tracer Labs Practice and Resources</b>
+  - [Network security configuration practices across various services](https://github.com/RuralBen/networklab)
+
 <h2>🔍📂 OSINT Tools:</h2>
 
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
@@ -75,7 +80,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - [KC7 Cybersecurity game](https://kc7cyber.com/modules)
 - [LOLBAS Project](https://lolbas-project.github.io/)
 
-#
+
 <h2>📻📶 Stay tuned with the latest cyber news and hot topics:</h2>
 
 - [Hackernoon](https://hackernoon.com/)
@@ -85,13 +90,13 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 
 <h2> 🤳 Connect with me:</h2>
+
 <p align="left">
 <a href="https://twitter.com/ruralbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruralbin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/analystruben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="analystruben" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucmxs6xbugcas7l7kbauivbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmxs6xbugcas7l7kbauivbg" height="30" width="40" /></a>
 </p>
 
-#
 
 <details> 
   <summary><h3>👨‍💻 R.L's Cyber Journey</h3></summary>
