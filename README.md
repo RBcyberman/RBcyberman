@@ -3,7 +3,8 @@
 **`Aspiring cybersecurity analyst and practitioner`**
 
 
-![ezgif-6-d6092c8cd2](https://github.com/RuralBen/Ruralben/assets/164398170/90385dd0-a8a0-4bab-a244-9281b05ad158)
+![ccacf2239c12b21edcb25ab82a7e4f27](https://github.com/RuralBen/Ruralben/assets/164398170/d7a833c6-043a-4e42-9d4d-4f13b6b3e128)
+
 
 
 
@@ -23,7 +24,8 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - ⚡ Fun fact:    NBA, Martial Arts and Anime fan 
 - 📫 How to reach me:   Inbox me
 
-![isaac-chan-animationtest](https://github.com/RuralBen/Ruralben/assets/164398170/941c65f3-197f-4941-9651-d77cf65686f1)
+
+![icegif-1361](https://github.com/RuralBen/Ruralben/assets/164398170/e30d6f01-51ec-4fb3-9477-26fce2b3cb59)
 
 
 
