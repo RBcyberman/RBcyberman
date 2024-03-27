@@ -2,6 +2,9 @@
 
 **`Aspiring cybersecurity analyst and practitioner`**
 
+![3233cc8f990a5e707508d43a1b02e6e5](https://github.com/RuralBen/Ruralben/assets/164398170/7cf0ea05-f933-4d98-a59d-e3ebb60e56f1)
+
+
 Learning cybersecurity has been a wild ride. You might roll your eyes and think, "Ah, another tech enthusiast," but hear me out. The way to safeguard our digital lives is changing faster than my socks, and I'm all here for it. Diving into puzzles and chasing down virtual villains in capture-the-flag or threat-hunting games is my kind of party. Think of me as a mini blue team Megaman of the internet, only with more caffeine and fewer attack fuels.
 
 # 💻 Tech Stack:
@@ -45,4 +48,5 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 <details> 
   <summary><h3>👨‍💻 R.L's Cyber Journey</h3></summary>
    Confession time: I spent four years wrangling IT/AV/Security systems and solutions for clients – think spreadsheets and troubleshooting galore. Don't get me wrong, it was engaging, but the world of cybersecurity always held a magnetic pull. So, I took a deep dive with a post-graduate degree in cybersecurity. It was a year of intense learning – firewalls became fortresses, encryption a secret language, and vulnerability assessments my detective work. Certifications and creds were my badges of honour, but the real reward is the constant learning curve. Now, I'm on a mission to become a cybersecurity Swiss Army Knife – cloud security, network defences, whatever is ahead! Every new concept feels like unlocking another level in this digital adventure. Fresh out of school, I wouldn't call myself a cybersecurity guru (yet!), but I'm a fast learner with a thirst for knowledge and a genuine passion for safeguarding the digital landscape.  
+
 
