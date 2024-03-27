@@ -1,3 +1,6 @@
+![logo](https://github.com/RuralBen/Ruralben/assets/164398170/4a8084c7-72d2-41f5-9b8a-ffcfab2bca63)
+
+
 # Attention! You are onboarding R.B's cyber cruise 🤖🖥️🚀👨‍🚀 
 
 **`Aspiring cybersecurity analyst and practitioner`**
