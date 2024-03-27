@@ -53,7 +53,8 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 - <b>Vulnerability Scanning Lab with Nessus</b>
   - [Basic setup and usage against Metasploit VM machine for initial understanding](https://github.com/RuralBen/Nessus)
-- <b>Caldera detection simulation Lab</b>
+- <b>SQL Injection Lab with BurpSuite/DVWA/Mutillidae</b>
+  - [Practising tools skills and explore JupterNotebook](https://github.com/RuralBen/Burpsuite-Jupter)
 
 <h2>🎓 Online Training:</h2>
 
