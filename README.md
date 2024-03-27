@@ -47,7 +47,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - <b>IPS/IDS Detection Lab with Suricata</b>
   - [Practising custom rules detection in Kali](https://github.com/RuralBen/SuricataLab)
 - <b>DFIR Lab with Multiple Tools</b>
-  - [Documenting the DFIR process exercise with tools](https://github.com/RuralBen/DFIRLab)
+  - [Documenting the DFIR process exercise using tools](https://github.com/RuralBen/DFIRLab)
 
 <h2>☣️ Red Projects:</h2>
 
