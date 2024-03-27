@@ -3,7 +3,8 @@
 **`Aspiring cybersecurity analyst and practitioner`**
 
 
-![2032](https://github.com/RuralBen/Ruralben/assets/164398170/f309fb27-0fb5-4752-828e-457552efe974)
+![ezgif-6-d6092c8cd2](https://github.com/RuralBen/Ruralben/assets/164398170/90385dd0-a8a0-4bab-a244-9281b05ad158)
+
 
 
 Learning cybersecurity has been a wild ride. You might roll your eyes and think, "Ah, another tech enthusiast," but hear me out. The way to safeguard our digital lives is changing faster than my socks, and I'm all here for it. Diving into puzzles and chasing down virtual villains in capture-the-flag or threat-hunting games is my kind of party. Think of me as a mini blue team Megaman of the internet, only with more caffeine and fewer attack fuels.
@@ -22,8 +23,9 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - ⚡ Fun fact:    NBA, Martial Arts and Anime fan 
 - 📫 How to reach me:   Inbox me
 
+![isaac-chan-animationtest](https://github.com/RuralBen/Ruralben/assets/164398170/941c65f3-197f-4941-9651-d77cf65686f1)
 
-![12436](https://github.com/RuralBen/Ruralben/assets/164398170/f9c425e0-83bd-4611-b0c1-76685fbfedfa)
+
 
 
 <h2>🪬 Blue Projects:</h2>
