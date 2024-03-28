@@ -14,7 +14,7 @@
 
 
 
-Learning cybersecurity has been a wild ride. You might roll your eyes and think, "Ah, another tech enthusiast," but hear me out. The way to safeguard our digital lives is changing faster than my socks, and I'm all here for it. Diving into puzzles and chasing down virtual villains in capture-the-flag or threat-hunting games is my kind of party. Think of me as a mini blue team Megaman of the internet, only with more caffeine and fewer attack fuels.
+Learning cybersecurity has been a wild ride. You might roll your eyes and think, "Ah, another tech enthusiast," but hear me out. The way to safeguard our digital lives is changing faster than my socks, and I'm all here for it. Diving into puzzles and chasing down virtual villains in capture-the-flag or threat-hunting games is my kind of party. Think of me as a mini blue team Megaman of the internet, only with more caffeine and fewer HP left.
 
 # 💻 Tech Stack:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![SUMOLOGIC](https://img.shields.io/badge/sumologic-000099.svg?style=for-the-badge&logo=sumologic&logoColor=white&color=%23000099) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -30,11 +30,11 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 #
   
 - 📦 Current Project:    Hackthebox skills training
-- 🌱 Ongoing learning habits:     French/Digital Forensics/SOAR/Programming/Scripting
+- 🌱 Ongoing learning habits:     French/Digital Forensics/SOAR/Cloud
 - 🚩 Hope to provide:    Cyber Threat Intelligence  
 - 🔍 Actively looking for:    Professional Mentorship   
 - ⚡ Fun fact:    NBA, Martial Arts and Anime fan 
-- 📫 How to reach me:   Inbox 
+- 📫 How to reach me:   Inbox via contacts, you know the drill
 
 
 ![icegif-1361](https://github.com/RuralBen/Ruralben/assets/164398170/e30d6f01-51ec-4fb3-9477-26fce2b3cb59)
@@ -63,7 +63,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
   - [Practising KQL query and refining hunting skills in Elastic Kibana](https://github.com/RuralBen/Onlinetraining)
 
 </BR>
-<h2>🥼 Hands-on Network Skills Exercises:</h2>
+<h2>🥼 Practical Network Skills Exercises:</h2>
 
 - <b>Network Packet Tracer Labs Practice and Resources</b>
   - [Network security configuration practices across various services](https://github.com/RuralBen/networklab)
@@ -77,7 +77,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - [MITRE ATTACK](https://d3fend.mitre.org/)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 </BR>
-<h2>📚📝 Other Study Resources:</h2>
+<h2>📚📝 Other Blue Dojos Resources:</h2>
 
 - [Security Blue Team](https://www.securityblue.team/)
 - [CyberDefender](https://cyberdefenders.org/)
