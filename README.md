@@ -38,8 +38,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 
 
 ![icegif-1361](https://github.com/RuralBen/Ruralben/assets/164398170/e30d6f01-51ec-4fb3-9477-26fce2b3cb59)
-
-
+#
 
 
 <h2>🪬 Blue Projects:</h2>
@@ -49,6 +48,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - <b>DFIR Lab with Multiple Tools</b>
   - [Documenting the DFIR process exercise using tools](https://github.com/RuralBen/DFIRLab)
 
+</BR>
 <h2>☣️ Red Projects:</h2>
 
 - <b>Vulnerability Scanning Lab with Nessus</b>
@@ -56,16 +56,19 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - <b>SQL Injection Lab with BurpSuite/DVWA/Mutillidae</b>
   - [Practising tools skills and using JupterNotebook for bounty target pen-test](https://github.com/RuralBen/Burpsuite-Jupter)
 
+</BR>
 <h2>🎓 Online Training:</h2>
 
 - <b>Threat-Hunting Online Workshop with Cyborg Security</b>
   - [Practising KQL query and refining hunting skills in Elastic Kibana](https://github.com/RuralBen/Onlinetraining)
 
+</BR>
 <h2>🥼 Hands-on Network Skills Exercises:</h2>
 
 - <b>Network Packet Tracer Labs Practice and Resources</b>
   - [Network security configuration practices across various services](https://github.com/RuralBen/networklab)
 
+</BR>
 <h2>🔍📂 OSINT Tools:</h2>
 
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
@@ -73,24 +76,22 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - [Shodan](https://www.shodan.io/)
 - [MITRE ATTACK](https://d3fend.mitre.org/)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
-
-<h2>📚 Other Study Resources:</h2>
+</BR>
+<h2>📚📝 Other Study Resources:</h2>
 
 - [Security Blue Team](https://www.securityblue.team/)
 - [CyberDefender](https://cyberdefenders.org/)
 - [LetsDefend](https://app.letsdefend.io/) 
 - [KC7 Cybersecurity game](https://kc7cyber.com/modules)
 - [LOLBAS Project](https://lolbas-project.github.io/)
-
-
+</BR>
 <h2>📻📶 Stay tuned with the latest cyber news and hot topics:</h2>
 
 - [Hackernoon](https://hackernoon.com/)
 - [DFIR & DIVA](https://dfirdiva.com/)
 - [Darknet Diary Podcast](https://darknetdiaries.com/) 
 - [Cybersecurity Today | Podcast on Spotify](https://open.spotify.com/show/2YiPcnkJLIcxtQ04nCfaSu)
-
-
+</BR>
 <h2> 🤳 Connect with me:</h2>
 
 <p align="left">
@@ -98,8 +99,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 <a href="https://linkedin.com/in/analystruben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="analystruben" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMXs6XBuGcas7L7KbaUIvBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmxs6xbugcas7l7kbauivbg" height="30" width="40" /></a>
 </p>
-
-
+</BR>
 <details> 
   <summary><h3>👨‍💻 R.L's Cyber Journey</h3></summary>
    Confession time: I spent four years wrangling IT/AV/Security systems and solutions for clients – think spreadsheets and troubleshooting galore. Don't get me wrong, it was engaging, but the world of cybersecurity always held a magnetic pull. So, I took a deep dive with a post-graduate degree in cybersecurity. It was a year of intense learning – firewalls became fortresses, encryption a secret language, and vulnerability assessments my detective work. Certifications and creds were my badges of honour, but the real reward is the constant learning curve. Now, I'm on a mission to become a cybersecurity Swiss Army Knife – cloud security, network defences, whatever is ahead! Every new concept feels like unlocking another level in this digital adventure. Fresh out of school, I wouldn't call myself a cybersecurity guru (yet!), but I'm a fast learner with a thirst for knowledge and a genuine passion for safeguarding the digital landscape.  
