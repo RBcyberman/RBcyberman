@@ -61,7 +61,7 @@ Learning cybersecurity has been a wild ride. You might roll your eyes and think,
 - <b>Threat-Hunting Online Workshop with Cyborg Security</b>
   - [Practising KQL query and refining hunting skills in Elastic Kibana](https://github.com/RuralBen/Onlinetraining)
 
-<h2>🥼 Hands-on Network Skills Exercise:</h2>
+<h2>🥼 Hands-on Network Skills Exercises:</h2>
 
 - <b>Network Packet Tracer Labs Practice and Resources</b>
   - [Network security configuration practices across various services](https://github.com/RuralBen/networklab)
